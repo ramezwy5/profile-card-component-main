@@ -38,7 +38,7 @@ body{
     position: absolute;
     content: "";
     background-image: url(./images/bg-pattern-top.svg);
-    width: 75%;
+    width: 100%;
     aspect-ratio: 1;
     background-repeat: no-repeat;
     top: -70%;
@@ -50,7 +50,7 @@ body{
     position: absolute;
     content: "";
     background-image: url(./images/bg-pattern-bottom.svg);
-    width: 75%;
+    width: 100%;
     aspect-ratio: 1;
     background-repeat: no-repeat;
     top: -50%;
